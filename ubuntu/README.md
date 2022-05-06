@@ -15,6 +15,9 @@ ssh-keygen -o
 
 4. sudo apt install fuse libfuse2
 
+5. vscode (lldb)
+https://github.com/vadimcn/vscode-lldb/releases
+
 ======================================================
 ./
     - electron-ssr-0.2.6.deb (ssr客户端)
