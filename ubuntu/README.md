@@ -17,6 +17,12 @@ ssh-keygen -o
 
 5. vscode (lldb)
 https://github.com/vadimcn/vscode-lldb/releases
+https://code.visualstudio.com/docs/?dv=linux64_deb
+
+使用自己下载的code 才能输入中文
+```
+    sudo dpkg -i ./code_1.69.0-1657183742_amd64.deb 
+```
 
 ======================================================
 ./
