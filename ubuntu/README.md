@@ -18,6 +18,10 @@ ssh-keygen -o
 5. vscode (lldb)
 https://github.com/vadimcn/vscode-lldb/releases
 
+6. cpptools-linux-x86.vsix (vscode cpp 插件)
+文件太大需要合并
+cat cpptools-* > cpptools-linux-x86.vsix
+
 ======================================================
 ./
     - electron-ssr-0.2.6.deb (ssr客户端)
